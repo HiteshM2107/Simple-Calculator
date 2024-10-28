@@ -7,4 +7,4 @@ Responsive design for various screen sizes.  <br> <br>
 <b>How to Use</b>:  <br>
 Clone the repository to your local machine.  <br>
 Open the index.html file in your web browser.  <br> <br>
-The application is live at https://hiteshm2107.github.io/SimpleCalculator.io/. Give it a try!
+The application is live at https://hiteshm2107.github.io/Simple-Calculator/. Give it a try!
